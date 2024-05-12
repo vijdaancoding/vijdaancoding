@@ -1,2 +1,6 @@
-![Ali Vijdaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijdaancoding&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijdaancoding)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vijdaancoding&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijdaancoding&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>

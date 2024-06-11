@@ -1,3 +1,1 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vijdaancoding&theme=radical&hide=stars,issues" />
-</a>
+in my quest for uniqueness to find a job I have decided to have the most basic vanilla readme

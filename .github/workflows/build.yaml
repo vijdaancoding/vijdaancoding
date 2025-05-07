@@ -38,10 +38,9 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions Bot"
           git add .
           git diff
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions Bot"
           git commit -m "Updated README" -a || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:$ACCESS_TOKEN@github.com/vijdaancoding/vijdaancoding
-          git push origin HEAD:main
+          git push
